@@ -1,2 +1,2 @@
-# .github
+# Engineering Lovers
 The team
